@@ -1,0 +1,106 @@
+<HTML>
+<HEAD>
+<TITLE>TITLE</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		superbuys_over = newImage("images/superbuys-over.gif");
+		id99col_over = newImage("images/99col-over.gif");
+		id199col_over = newImage("images/199col-over.gif");
+		premcol_over = newImage("images/premcol-over.gif");
+		regnew_over = newImage("images/regnew-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF ONLOAD="preloadImages();">
+
+
+
+<!-- BEGIN CUT -->
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('superbuys', 'images/superbuys-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('superbuys', 'images/superbuys.gif'); return true;">
+                <font face="verdana, arial" size="2" color="#000000">
+				<IMG NAME="superbuys" SRC="images/superbuys.gif" WIDTH=76 HEIGHT=40 BORDER=0></font></A></td>
+    <td>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('id99col', 'images/99col-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('id99col', 'images/99col.gif'); return true;">
+                <font face="verdana, arial" size="2" color="#000000">
+				<IMG NAME="id99col" SRC="images/99col.gif" WIDTH=93 HEIGHT=40 BORDER=0></font></A></td>
+    <td>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('id199col', 'images/199col-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('id199col', 'images/199col.gif'); return true;">
+                <font face="verdana, arial" size="2" color="#000000">
+				<IMG NAME="id199col" SRC="images/199col.gif" WIDTH=99 HEIGHT=40 BORDER=0></font></A></td>
+    <td>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('premcol', 'images/premcol-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('premcol', 'images/premcol.gif'); return true;">
+                <font face="verdana, arial" size="2" color="#000000">
+				<IMG NAME="premcol" SRC="images/premcol.gif" WIDTH=119 HEIGHT=40 BORDER=0></font></A></td>
+    <td>
+			<A HREF="#"
+				ONMOUSEOVER="changeImages('regnew', 'images/regnew-over.gif'); return true;"
+				ONMOUSEOUT="changeImages('regnew', 'images/regnew.gif'); return true;">
+                <font face="verdana, arial" size="2" color="#000000">
+				<IMG NAME="regnew" SRC="images/regnew.gif" WIDTH=88 HEIGHT=40 BORDER=0></font></A></td>
+  </tr>
+</table>
+
+
+
+<!-- END CUT -->
+
+
+
+<p><font face="verdana, arial" size="2" color="#808080">Make sure you edit the
+script so that it calls to the correct path of the images.</font></p>
+<p><font face="verdana, arial" size="2" color="#808080">If you change the name
+of an image, make sure you change its name in the script<br>
+as well, or it will yield many errors, which we both hate, I'm sure.</font></p>
+<p><font face="verdana, arial" size="2" color="#808080">To place this into the
+other pages of the site, simply cut and paste the designated<br>
+sections marked with <i>&lt;!-- BEGIN CUT --&gt; and &lt;!-- END CUT --&gt;</i>
+inside the<br>
+html of this page, and make sure to copy and paste the javascript, into the
+&lt;HEAD&gt;&lt;/HEAD&gt;<br>
+tag of each page as well.&nbsp; I'm sure you can figure it out, you've done a
+fantastic job<br>
+with the site before we even met, anyway.</font></p>
+<p><font face="verdana, arial" size="2" color="#808080">Enjoy!</font></p>
+<p><font face="verdana, arial" color="#C0C0C0" size="1">Jake Litwicki<br>
+DynamixPro - Affordable Web Solutions<br>
+<a href="http://www.dynamixpro.com">http://www.dynamixpro.com</a></font></p>
+</BODY>
+</HTML>

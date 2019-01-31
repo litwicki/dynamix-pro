@@ -1,0 +1,128 @@
+<HTML>
+
+<HEAD>
+ <TITLE>Example Form</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<H1 STYLE="font-family: Tahoma, Verdana, Arial, Sans-serif; font-size: 18pt; font-weight: normal; letter-spacing: 3pt">
+        Example Form
+</H1>
+
+
+<DIV STYLE="background-color: #DDDDDD; width: 640px; border-style: solid; border-width: 1px; border-color: #000000; padding: 5px">
+        <FONT FACE="Verdana" SIZE="-1">
+        <STRONG>READ THIS!</STRONG><BR>
+        Don't forget to change the hidden input for the recipient address at the bottom of this form.<BR>
+        (You will need to edit the HTML).
+
+        <P>
+        This form attempts to demonstrate the capabilities of the form processor script. Just about<BR>
+        every type of input is demonstrated (I think...). Two file uploads are used to show multiple<BR>
+        uploads are possible. Some example text is in the name, email and textarea inputs. When<BR>
+        submitted, the script will use the template method (explained in the readme) to display a<BR>
+        thank you page. This too is an example and attempts to show what is possible using templates.
+        </FONT>
+</DIV>
+
+<FORM ACTION="formproc.php" METHOD="POST" ENCTYPE="multipart/form-data">
+
+ <TABLE BORDER="0" STYLE="font-family: Verdana, Helvetica, Sans-Serif; font-size: 10pt; font-weight: normal">
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Name:</DIV></TD>
+   <TD VALIGN="TOP"><INPUT TYPE="TEXT" NAME="name_required" VALUE="Your Name"></TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Email address:</DIV></TD>
+   <TD VALIGN="TOP"><INPUT TYPE="TEXT" NAME="email" VALUE="your.email@domain.com"></TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Radio buttons:</DIV></TD>
+   <TD VALIGN="TOP">
+    <INPUT TYPE="RADIO" VALUE="Good" CHECKED NAME="radio_buttons">Good<BR>
+    <INPUT TYPE="RADIO" VALUE="Average" NAME="radio_buttons">Average<BR>
+    <INPUT TYPE="RADIO" VALUE="Poor" NAME="radio_buttons">Poor
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Checkboxes:</DIV></TD>
+   <TD VALIGN="TOP">
+    <INPUT TYPE="CHECKBOX" VALUE="Update List" NAME="checkboxes[]">Checkbox one<BR>
+    <INPUT TYPE="CHECKBOX" VALUE="Humour List" NAME="checkboxes[]">Checkbox two<BR>
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Textarea:</DIV></TD>
+   <TD VALIGN="TOP"><TEXTAREA COLS="25" ROWS="10" NAME="textarea">Some text!</TEXTAREA></TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT">Select box:<BR>(Multiple)</P></DIV></TD>
+   <TD VALIGN="TOP">
+    <SELECT NAME="multiple_select[]" MULTIPLE>
+     <OPTION SELECTED>Option 1
+     <OPTION>Option 2
+     <OPTION>Option 3
+     <OPTION>Option 4
+     <OPTION>Option 5
+    </SELECT>
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP">
+    <DIV ALIGN="RIGHT">Select box:</DIV>
+   </TD>
+   <TD VALIGN="TOP">
+    <SELECT NAME="select">
+     <OPTION>Option 1</OPTION>
+     <OPTION SELECTED>Option 2</OPTION>
+     <OPTION>Option 3</OPTION>
+     <OPTION>Option 4</OPTION>
+     <OPTION>Option 5</OPTION>
+    </SELECT>
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP">
+    <DIV ALIGN="RIGHT">File upload:</DIV>
+   </TD>
+   <TD VALIGN="TOP">
+    <INPUT TYPE="FILE" SIZE="25" NAME="fileupload_file">
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP">
+    <DIV ALIGN="RIGHT">File upload 2:</DIV>
+   </TD>
+   <TD VALIGN="TOP">
+    <INPUT TYPE="FILE" SIZE="25" NAME="fileupload2_file">
+   </TD>
+  </TR>
+
+  <TR>
+   <TD VALIGN="TOP"><DIV ALIGN="RIGHT"></DIV></TD>
+   <TD VALIGN="TOP">
+
+    <INPUT TYPE="HIDDEN" NAME="hidden_input" VALUE="Some text">
+    <INPUT TYPE="HIDDEN" NAME="configfile" VALUE="config_file.conf">
+    <INPUT TYPE="SUBMIT" VALUE="Send">
+   </TD>
+  </TR>
+
+ </TABLE>
+
+</FORM>
+
+</FONT>
+
+</BODY>
+</HTML>

@@ -1,0 +1,97 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Revolutionize Your Future</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p>&nbsp;<table border="0" cellpadding="0" cellspacing="10" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+                          <tr>
+                            <td width="100%"><b>
+                            <font size="2" face="Verdana, arial">CPU-Chunker&nbsp;</font><font face="Verdana" size="2">©</font><font face="Verdana, arial" size="2">&nbsp; 
+                        -&nbsp;
+                            <a href="http://www.dynamixpro.com/cgi-bin/dl/load.cgi?cpuchunk/cpuchunk.exe">CLICK TO DOWNLOAD</a><br>
+                        </font></b><font face="Verdana, arial"><i><font size="1">A simple system speed 
+                        checking utility for all Windows systems<br>
+                        </font></i><font size="1">RELEASED: APRIL 21, 2001 - 
+                        21:31 PST</font></font></td>
+                          </tr>
+                          <tr>
+                            <td width="100%">
+                            <hr noshade color="#C0C0C0" size="1">
+                            <font face="Verdana, arial" size="1">Number of Times Downloaded: <!--#include virtual="../cgi-bin/dl/showload.cgi?cpuchunk/cpuchunk.exe" -->
+                            </font></td>
+                          </tr>
+                          <tr>
+                            <td width="100%">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td width="100%">&nbsp;</td>
+                          </tr>
+                          </table>
+                        </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

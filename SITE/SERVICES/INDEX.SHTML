@@ -1,0 +1,143 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Services</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p><b><font face="verdana" size="5">Services Offered</font></b></p>
+                        <p><font face="verdana" size="2">Please do not hesitate
+                        to request a service that is not listed below.&nbsp; Just because it is not listed, does not mean that it is
+                        not offered.</font></p>
+                        <hr color="#000000" noShade SIZE="1">
+                     
+                          <font face="verdana" size="2"><b><a href="web.shtml"> WEB DESIGN</a></b></font>
+                        
+                        <br>
+                        
+                          <font face="verdana" size="1">- Web Creation</font>
+                        
+                        &nbsp;
+                        
+                          <font face="verdana" size="1"><br>
+                          - Web Clean-Up/Repair</font>
+                        
+                        &nbsp;
+                        
+                          <font face="verdana" size="1"><br>
+                          - Interface Design</font>
+                       
+                        &nbsp;
+                       
+                          <font face="verdana" size="1"><br>
+                          - CGI/Perl/ASP/PHP
+                          Scripting</font>
+                       
+                        &nbsp;
+                       
+                          <font face="verdana" size="1"><br>
+                          - Flash/LiveMotion
+                          Animation<br>
+                          - <b>WML - </b>Websites on your handheld device<br>
+                          &nbsp; ( Cell Phone, Palm, Visor, etc)</font>
+                        <hr noshade size="1" color="#C0C0C0">
+                        <p><font face="verdana" size="2"><b><a href="grfx.shtml">Graphics
+                          Design</a></b></font>
+                        
+                          <font face="verdana" size="1"><br>
+                          - Logo Design (Web &amp;
+                          Print)</font>
+                        
+                        &nbsp;
+                        
+                          <font face="verdana" size="1"><br>
+                          - Photo-Editing/Touchup</font>
+                       
+                        &nbsp;
+                       
+                          <font face="verdana" size="1"><br>
+                          - Interface
+                          Scripting/Manipulation</font>
+                        
+                        &nbsp;
+                        
+                          <font face="verdana" size="1"><br>
+                          - Banner Design</font>
+                       
+                        &nbsp;
+                       
+                          <font face="verdana" size="1"><br>
+                          - MISC. Graphics</font>
+                        
+                        &nbsp;
+                        
+                          <font face="verdana" size="1"><br>
+                          - Graphic Optimization</font></p>
+                        <p align="right"><font face="verdana" size="1"><a href="order.shtml">ORDER
+                        NOW</a></font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

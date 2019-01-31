@@ -1,0 +1,161 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Clients</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <font face="verdana" size="2">Simply click on the
+                        project you wish to view in more detail. <br>
+&nbsp;</font><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+                          <tr>
+                            <td width="100%" bgcolor="#808080">
+                            <table border="0" cellpadding="5" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+                              <tr>
+                                <td width="40%" bgcolor="#C0C0C0"><b>
+                                <font face="Verdana, arial" size="2">Project 
+                                Name</font></b></td>
+                                <td width="60%" bgcolor="#C0C0C0" colspan="2">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF">
+                                <font face="verdana" size="2">
+                                <a href="http://www.dotdealers.com">Dot Dealers</a></font><font face="verdana" size="1" color="#FF0000">
+                                <b>- NEW!</b></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF">
+                                <font face="verdana" size="2">
+                                <a href="http://www.4thandlong.net">4th And Long</a></font><font face="verdana" size="1" color="#FF0000">
+                                <b>- NEW!</b></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF">
+                                <font face="verdana" size="2">
+                                <a href="http://www.thewarningtrack.net">The 
+                                Warning Track</a> </font><font face="verdana" size="1" color="#FF0000">
+                                <b>- NEW!</b></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF">
+                                <font face="verdana" size="2">
+                                <a href="http://www.icingonline.com/">Icing 
+                                Online</a></font><font face="verdana" size="1" color="#FF0000">
+                                <b>- NEW!</b></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF"><font face="verdana" size="2"><a href="http://www.ryanscards.com" target="_blank">Ryan's
+                        Cards</a></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF"><font face="verdana" size="2"><a href="http://www.hunthosting.com" target="_blank">Hunt
+                        Hosting</a></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF"><font face="verdana" size="2"><a href="http://www.earncashonline.com" target="_blank">Earn
+                        Cash Online</a></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="40%" bgcolor="#FFFFFF"><font face="verdana" size="2"><a href="http://www.sports-central.org">Sports
+                        Central</a></font></td>
+                                <td width="20%" bgcolor="#FFFFFF">
+                                <font face="Verdana, arial" size="1">Web Design</font></td>
+                                <td width="40%" bgcolor="#FFFFFF">&nbsp;</td>
+                              </tr>
+                            </table>
+                            </td>
+                          </tr>
+                        </table>
+                        <p><font face="verdana" size="1"><u>Under Development</u></font></p>
+                        <ul>
+                          <li><font face="verdana" size="1">Data Source Tech</font></li>
+                          <li><font face="verdana" size="1">Sky Danley</font></li>
+                          <li><font face="verdana" size="1">AccuHit</font></li>
+                        </ul>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

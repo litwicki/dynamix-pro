@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|BEAST\\Jake
+vti_modifiedby:SR|BEAST\\Jake
+vti_timelastmodified:TR|15 Apr 2001 05:07:58 -0000
+vti_timecreated:TR|13 Apr 2001 21:01:03 -0000
+vti_lineageid:SR|{88217E5A-5977-4E23-8A41-42F41CCE6878}
+vti_extenderversion:SR|5.0.2.2623
+vti_backlinkinfo:VX|
+vti_nexttolasttimemodified:TR|13 Apr 2001 21:04:51 -0000
+vti_cacheddtm:TX|13 Apr 2001 21:04:51 -0000
+vti_filesize:IR|481

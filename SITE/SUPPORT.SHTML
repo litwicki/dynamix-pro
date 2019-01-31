@@ -1,0 +1,80 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Revolutionize Your Future</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p><font face="verdana" size="2">If you would like to
+                        show your support for our efforts as a company, please
+                        use one of the following banners to do so.&nbsp; We
+                        appreciate your help in spreading the word.</font></p>
+                        <p><font face="verdana" size="1">Please save the images
+                        to your hard drive, and upload them to your server.</font></p>
+                        <p align="left"><img border="0" src="images/link_img/dp468alt.gif" width="468" height="60">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

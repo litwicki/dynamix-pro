@@ -1,0 +1,30 @@
+.title {
+color:#000000;
+font-family:verdana;
+font-size:13;
+font-weight:bold;
+background-color:#DADADA;
+}
+.titledesc {
+color:#000000;
+font-family:verdana;
+font-size:10;
+background-color:#DADADA;
+}
+.content {
+color:#000000;
+font-family:verdana;
+font-size:10;
+}
+a:link {
+color:#0075BB;
+font-family:verdana;
+}
+a:visited {
+color:#0075BB;
+font-family:verdana;
+}
+a:active {
+color:#0085DD;
+font-family:verdana;
+}

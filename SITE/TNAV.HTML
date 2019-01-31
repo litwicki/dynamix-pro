@@ -1,0 +1,78 @@
+
+<!-- BEGIN TOP NAV -->
+
+<HTML>
+<HEAD><LINK rel="STYLESHEET" type="text/css" href="dynamixpro.css">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		home_over = newImage("images/home-over.gif");
+		comp_over = newImage("images/comp-over.gif");
+		services_over = newImage("images/main/tnavservices-over.gif");
+		clients_over = newImage("images/main/tnavclients-over.gif");
+		sitemap_over = newImage("images/main/tnavsitemap-over.gif");
+		search_over = newImage("images/main/tnavsearch-over.gif");
+		order_over = newImage("images/main/tnavorder-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+<title></title>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF ONLOAD="preloadImages();" topmargin="0" leftmargin="0" marginheight=0 marginwdith=0>
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="22">
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top">
+<table border="0" width="100%" height="20" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" bgcolor="#336699">
+      <div align="center">
+        <center>
+        <table border="0" width="725" cellspacing="0" cellpadding="0" height="20">
+          <tr>
+            <td bgcolor="#336699"><b><A class="tnav" href="http://www.dynamixpro.com/"><font face="verdana, arial" size="1" color="#FFFFFF">Home</font></A></b></td>
+            <td bgcolor="#336699"><b><A class="tnav" href="http://www.dynamixpro.com/about/"><font face="verdana, arial" size="1" color="#FFFFFF">Company</font></A></b></td>
+            <td bgcolor="#336699"><b><A class="tnav" href="http://www.dynamixpro.com/services"><font face="verdana, arial" size="1" color="#FFFFFF">Services</font></A></b></td>
+            <td bgcolor="#336699"><b><A class="tnav" href="http://www.dynamixpro.com/clients"><font face="verdana, arial" size="1" color="#FFFFFF">Clients</font></A></b></td>
+            <td bgcolor="#336699"><b><A class="tnav" href="http://www.dynamixpro.com/sitemap.shtml"><font face="verdana, arial" size="1" color="#FFFFFF">Site
+              Map</font></A></b></td>
+            <td bgcolor="#336699"><b><font face="verdana, arial" size="1" color="#FFFFFF">Search</font></b></td>
+        </center>
+            <td bgcolor="#336699">
+              <p align="right"><b><A class="tnav" href="http://www.dynamixpro.com/services/order.shtml"><font face="verdana, arial" size="1" color="#FFFFFF">Free
+              Price Quote!</font></A></b></p>
+          </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>
+
+<!-- END TOP NAV -->

@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Services</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p align="left"><font face="verdana" size="2"><b>Thank
+                        you</b> for your interest in DynamixPro.&nbsp; You
+                        should receive a response within 48 hours.&nbsp; Please
+                        be reminded the form you just submitted is simply to
+                        give you an estimate of your desired services.&nbsp;
+                        Upon receiving your confirmation e-mail, with your
+                        estimate, you will be prompted to proceed to the order
+                        form process.&nbsp;</font>
+                        <p align="left"><font face="verdana" size="2">If you do
+                        not receive an e-mail within 48 hours, please contact <a href="mailto:support@dynamixpro.com">support@dynamixpro.com</a>,
+                        to receive your DynamixPro Client ID and proceed to
+                        complete your order form.</font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

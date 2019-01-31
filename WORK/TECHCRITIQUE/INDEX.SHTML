@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+
+<title>TechCritique - All Your Reviews Are Belong To Us</title>
+</head>
+
+<body link="#006AB4" vlink="#006AB4" alink="#0000FF" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight=0 marginwidth=0>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3" height="100%">
+  <tr>
+    <td width="100%" height="95%" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+      <tr>
+        <td width="50%" bgcolor="#006AB4">
+        <img border="0" src="logo.gif" width="293" height="61"></td>
+        <td width="50%" bgcolor="#006AB4">
+        <p align="right">
+        <img border="0" src="slogan.gif" width="250" height="61"></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2" background="navbg.gif">
+        <img border="0" src="nav.gif" width="539" height="32"></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2" background="adspace.gif" height="80">
+        <div align="center">
+          <center>
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber2">
+            <tr>
+              <td width="100%"><a href="http://www.dynamixpro.com">
+              <img border="0" src="dp468-5.gif" alt="DynamixPro - Affordable Web Design" width="468" height="60"></a></td>
+            </tr>
+          </table>
+          </center>
+        </div>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2">
+        <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5">
+          <tr>
+            <td width="100%">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber6">
+              <tr>
+                <td width="20%" valign="top">
+                <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8">
+                  <tr>
+                    <td width="100%"><font face="Verdana, arial" size="1"><b>
+                    Column One Heading</b><br>
+                    Info here, blah blah blah</font></td>
+                  </tr>
+                </table>
+                </td>
+                <td width="60%" valign="top">
+                &nbsp;<!--#include virtual="news/news.txt" --></td>
+                <td width="20%" valign="top">
+                <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7">
+                  <tr>
+                    <td width="100%"><font face="Verdana, arial" size="1"><b>
+                    Column Three Heading</b><br>
+                    blah blah blah</font></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" height="5%" valign="top" bgcolor="#006AB4">
+    <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+      <tr>
+        <td width="100%"><font face="Verdana, arial" size="1" color="#FFFFFF">Copyright © 
+        TechCritique.com.&nbsp; All Rights Reserved.&nbsp;
+        <a href="mailto:info@techcritique.com">info@techcritique.com</a><br>
+        Website Developed by: DynamixPro - http://www.dynamixpro.com</font></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>

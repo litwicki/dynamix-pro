@@ -1,0 +1,92 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Revolutionize Your Future</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p><b><font face="verdana, arial" color="#000000" size="5">Site
+                        Map</font></b></p>
+                        <p><font face="verdana, arial" size="2" color="#000000">About<br>
+                        - <a href="http://www.dynamixpro.com/about/">Company
+                        Information</a></font></p>
+                        <p><font face="verdana, arial" size="2" color="#000000">Clients<br>
+                        - <a href="http://www.dynamixpro.com/clients/">Examples
+                        of Our Work</a></font></p>
+                        <p><font face="verdana, arial" size="2" color="#000000">Services<br>
+                        - <a href="http://www.dynamixpro.com/grfx.shtml">Graphics</a><br>
+                        - <a href="http://www.dynamixpro.com/services/web.shtml">Web</a><br>
+                        - <a href="http://www.dynamixpro.com/services/order.shtml">Order
+                        Form</a></font></p>
+                        <p><font face="verdana, arial" size="2" color="#000000">Main
+                        Directory<br>
+                        - <a href="http://www.dynamixpro.com/contact.shtml">Contact</a><br>
+                        - <a href="http://www.dynamixpro.com/support.shtml">Support
+                        Us</a><br>
+                        - <a href="http://www.dynamixpro.com/">Main Page</a></font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

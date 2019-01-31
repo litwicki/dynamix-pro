@@ -1,0 +1,158 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Revolutionize Your Future</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p><b><font face="verdana, arial"><font size="5">CPU-Chunker</font><font size="2">&nbsp;</font></font><font face="verdana, arial" size="5">©</font><font face="verdana, arial" size="2">&nbsp; 
+                        -&nbsp;
+                        <a href="http://www.dynamixpro.com/cgi-bin/dl/load.cgi?cpuchunk/cpuchunk.exe">
+                        <font color="#000000">CLICK TO DOWNLOAD</font></a><br>
+                        </font></b><font face="verdana, arial"><i><font size="1">A simple system speed 
+                        checking utility for all Windows systems<br>
+                        </font></i><font size="1">RELEASED: APRIL 21, 2001 - 
+                        21:31 PST</font></font></p>
+                        <p><font size="2" face="verdana, arial"><b>Program 
+                        Description:<br>
+                        </b>This program was created to provide system builders 
+                        and computer technicians with a reliable, streamlined, 
+                        and overall, very reliable way to test their computer's 
+                        performance.</font></p>
+                        <p><font size="2" face="verdana, arial"><b>Usage Notes:<br>
+                        </b>To obtain optimal performance ratings on your 
+                        systems, please verify that the following has been done 
+                        BEFORE running CPU-chunker:</font></p>
+                        <ul>
+                          <li><font size="2" face="verdana, arial">Close <u>all</u> 
+                          programs running on your system except Windows.&nbsp; <br>
+                          This includes any instant messaging / system 
+                          temperature monitoring / music / web browsing 
+                          programs.<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Disable any 
+                          internet sign-on services or email checking services.<br>
+                          This keeps your system from dialing into the internet 
+                          accidentally during the benchmark.<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Disconnect 
+                          from the internet.<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Move the 
+                          program to your C:\ Directory, or another directory 
+                          that you can easily navigate to from a DOS prompt.<br>
+                          The program file is named &quot;cpuchunk.exe&quot;<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Get to a 
+                          Windows DOS Prompt.<br>
+                          To do this in Windows 95 / 98 / ME: Go to START -&gt; RUN 
+                          -&gt; Type in the word &quot;command&quot; (without quotes) and hit 
+                          ENTER.<br>
+                          To do this in Windows NT / 2000: Go to START -&gt; RUN -&gt; 
+                          Type in the word &quot;cmd&quot; (without quotes) and hit ENTER.<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Navigate to 
+                          the program's directory in MS-DOS.<br>
+                          To get to the C:\ Directory, type in &quot;cd_\&quot;&nbsp; (use the 
+                          back slash... NOT the forward slash found under the 
+                          &quot;?&quot; on the keyboard.)<br>
+                          Put a space where the underline is in the command 
+                          above.<br>
+                          &nbsp; </font></li>
+                          <li><font size="2" face="verdana, arial">Press &quot;ALT&quot; + 
+                          &quot;ENTER&quot; to make the DOS window fill your monitor's 
+                          screen.&nbsp; <br>
+                          The start button, system clock, and all other 
+                          Windows-looking things should be missing from your 
+                          screen.<br>
+                          All that should show on your screen is the black of 
+                          the MS-DOS box and the gray C:\ prompt. </font></li>
+                        </ul>
+                        <p><font size="2" face="verdana, arial"><b>Running the 
+                        Program:</b></font></p>
+                        <ul>
+                          <li><font size="2" face="verdana, arial">At the DOS 
+                          prompt, type in &quot;cpuchunk&quot; and hit ENTER. </font></li>
+                          <li><font size="2" face="verdana, arial">The program 
+                          will proceed to load up. </font></li>
+                          <li><font size="2" face="verdana, arial">Read and 
+                          follow all on-screen instructions. </font></li>
+                          <li><font size="2" face="verdana, arial">The tests 
+                          will run.&nbsp; If an error occurs or you need to abort, 
+                          press &quot;CTRL&quot; + &quot;BREAK&quot; on your keyboard at any time 
+                          and the program will end safely. </font></li>
+                          <li><font size="2" face="verdana, arial">The results 
+                          will be displayed. </font></li>
+                          <li><font size="2" face="verdana, arial">The results 
+                          are also written to a file on your C:\ root directory. 
+                          - The file name is &quot;CPUCHUNK.TXT&quot; </font></li>
+                          <li><font size="2" face="verdana, arial">This file can 
+                          be opened with any ordinary text reader like notepad.
+                          </font></li>
+                        </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

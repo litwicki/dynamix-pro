@@ -1,0 +1,90 @@
+<html>
+
+<head>
+<title>DynamixPro - Revolutionize Your Future</title>
+<link rel="STYLESHEET" type="text/css" href="../dynamixpro.css" />
+</head>
+
+<body BGCOLOR="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" --></td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+    <!--#include virtual="../header.html" --></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">&nbsp; </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+    <table border="0" width="750" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="40" valign="top" background="../images/main/dynamixprofade.jpg">
+        <br />
+        </td>
+        <td width="550" valign="top">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="100%" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="10">
+              <tr>
+                <td width="100%" valign="top" height="800">
+                <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="100%">
+                    <!--#include virtual="../quicknav.html" --></td>
+                  </tr>
+                </table>
+                <hr noshade size="1" color="#000000" />
+                <p><font size="2" face="Verdana, arial">Thank You for signing up 
+                for our FREE newsletter.&nbsp; The newsletter will be sent out no 
+                more than two times per month, and you can unsubscribe at any time.&nbsp;
+                </font></p>
+                <p><font size="2" face="Verdana, arial">Features include:</font></p>
+                <ul>
+                  <li><font size="1" face="Verdana, arial">job opportunities</font></li>
+                  <li><font size="1" face="Verdana, arial">affiliate program</font></li>
+                  <li><font size="1" face="Verdana, arial">recent client works</font></li>
+                  <li><font size="1" face="Verdana, arial">free design offers</font></li>
+                </ul>
+                <hr noshade color="#000000" size="1" />
+                <p align="right"><b>
+                <a href="http://www.dynamixpro.com/services/order.shtml">
+                <font size="2" face="Verdana, arial">FREE PRICE QUOTE!</font></a></b></p>
+                </td>
+                </tr>
+                <tr>
+                  <td width="100%" valign="top">
+                  <p align="left">
+                  <!--#include virtual="../legal/copyright.html" --></p>
+                  </td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+          <div align="center">
+            <center>
+            <table border="0" width="150" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%"></td>
+              </tr>
+            </table>
+            </center>
+          </div>
+          <!--#include virtual="../rnav.html" --></td>
+        </tr>
+        </table>
+      </td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>

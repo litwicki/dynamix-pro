@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+        <TITLE>Form Processor</TITLE>
+		<STYLE TYPE="text/css">
+		<!--
+
+		BODY {
+		      text-align: center;
+		     }
+		
+		H1 {
+		    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+		    font-size: 22pt;
+		    font-weight: normal;
+		    letter-spacing: 3pt;
+		    width: 75%;
+		   }
+		
+		H2 {
+		    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+		    font-size: 18pt;
+		    font-weight: normal;
+		    letter-spacing: 3pt;
+		   }
+		
+		H3 {
+		    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+		    font-size: 14pt;
+		    font-weight: normal;
+		    letter-spacing: 1pt;
+		   }
+		   
+		P  {
+		    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+		    font-size: 10pt;
+		    font-weight: normal;
+		    letter-spacing: 1pt;
+		    line-height: 13pt;
+		   }
+		
+		LI {
+		    font-family: Verdana, Arial, Helvetica, Sans-Serif;
+		    font-size: 10pt;
+		    font-weight: normal;
+		    letter-spacing: 2pt;
+		    line-height: 13pt;
+		   }
+		
+		DIV {
+		     width: 75%;
+		     margin-top: 20px;
+		     margin-bottom: 20px;
+		    }
+		
+		CODE {
+		      font-family: monospace;
+		      font-size: 10pt;
+		      font-weight: normal;
+		     }
+		
+		.center {
+		         text-align: center;
+		        }
+		
+		.nocenter {
+		           text-align: left;
+		          }
+		
+		.bold {
+		       font-weight: bold;
+		      }
+		
+		.padding {
+		          padding: 10px;
+		         }
+		
+		.background {
+		             color: #000000;
+		             background-color: #FF4A4A;
+		            }
+		
+		.background-light {
+		                   color: #000000;
+		                   background-color: #FF8484;
+		                  }
+		.border {
+		         border-style: solid;
+		         border-color: #000000;
+		         border-width: 2px;
+		        }
+		// -->
+		</STYLE>
+</HEAD>
+<BODY>
+
+<H1 CLASS="center background border">Form Processor</H1>
+
+<DIV CLASS="background-light border">
+
+        <H2>Contents</H2>
+
+        <TABLE BORDER="0">
+                <TR>
+                        <TD>
+                                <UL>
+                                        <LI>Installation</LI>
+					<LI>Variables</LI>
+					<LI>Over-riding</LI>
+					<LI>Form Only stuff</LI>
+					<LI>Config Files</LI>
+					<LI>Notes</LI>
+					<LI>Templates</LI>
+					<LI>ToDo</LI>
+                                        <LI>License</LI>
+                                </UL>
+                        </TD>
+                </TR>
+        </TABLE>
+
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Installation</H2>
+
+	<UL>
+		<LI>Read this file.</LI>
+		<LI>Extract the formproc.php and assorted files. Place in the correct directory.</LI>
+	</UL>
+	
+	<P>
+		There is an example form included that shows how to create a form
+		with various elements that utilises the script. There's a fair amount
+		of documentation here, attributable to the scripts' versatility and
+		power. There's nothing, however, that's difficult to understand.
+	</P>
+	
+	<P>
+		Open the script and you will see some variables you may alter to suit
+		your needs. These are described below.
+        </P>
+
+</DIV>
+
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Variables</H2>
+
+	<H3>Security Variables</H3>
+	
+	<P>
+		<CODE><B>$security</B></CODE><BR>
+	        This should be set to either 1 (one) or 0 (zero). If it is
+                set to 1 then the referring page will be checked for the
+                correct server name (the www.yourname.com bit). If it is
+                incorrect (Eg. A form on another server referring to your
+                form processor) then an error will be given.
+	</P>
+	
+	<P>
+		<CODE><B>$servername[]</B></CODE><BR>
+		This is the name of your server. It is only required when
+                $security is set to 1 (one). An example:
+	</P>
+	
+	<P>
+		http://www.yourname.com/ Server name would be www.yourname.com<BR>
+		http://users.isp.net/    Server name would be users.isp.net
+	</P>
+	
+	<P>
+		As of version 2.01 this variable is now: $servername[]
+		ie. A couple of square brackets on the end. This is to enable
+		multiple servernames. Eg:
+	</P>
+	
+	<P>
+		<CODE>$servername[] = 'yourdomain.com';</CODE><BR>
+		<CODE>$servername[] = 'otherdomain.com';</CODE>
+	</P>
+
+	<P>
+		<CODE><B>$bad_addresses</B></CODE><BR>
+		This is the filename and path that contains a list of bad ip
+                addresses or hostnames. See the example that is included.
+                Useful if your script is being abused.
+	</P>
+	
+	<P>
+		<CODE><B>$check_email</B></CODE><BR>
+		If an input has the name "email" (without quotes) and this is
+                set to 1 (one), it will be checked for correct email address
+                format.  If this is set to 0 (zero), it won't.
+	</P>
+	
+	<H3>Template Variables</H3>
+	
+	<P>
+		<CODE><B>$use_templates</B></CODE><BR>
+		If this is set to 1 (one) then the template file specified in the
+                variable below will be used as a thank you page. See the section on
+                templates for more details.
+	</P>
+	
+	<P>
+		<CODE><B>$tpl_thankyou</B></CODE><BR>
+		This is the path to the thank you page used in conjunction with
+                the above.
+	</P>
+	
+	<P>
+		<CODE><B>$tpl_email</B></CODE><BR>
+		This is the path to the email template.
+	</P>
+	
+	
+	<H3>Non-template redirections.</H3>
+	
+	<P>
+		<CODE><B>$required_error</B></CODE><BR>
+		Specifies a webpage to redirect to if a required input has not
+                been filled in. Can be relative ('../page.html' or '/page.html') or
+                absolute ('http://domain.com/page.html').
+	</P>
+
+	<P>
+		<CODE><B>$bad_referer</B></CODE><BR>
+		Specifies a webpage to redirect to if the referring url does not have
+                the servername in it. (This is only checked if $security is set to 1).
+                Can be relative ('../page.html' or '/page.html') or absolute
+                ('http://domain.com/page.html').
+	</P>
+
+	<P>
+		<CODE><B>$bad_address</B></CODE><BR>
+		Specifies a webpage to redirect to if the request has come from an ip
+                address or hostname that is listed in the bad_addresses file. Only
+                checked if $security is set to 1. Can be relative ('../page.html'
+                or '/page.html') or absolute ('http://domain.com/page.html').
+	</P>
+
+	<P>
+		<CODE><B>$invalid_email</B></CODE><BR>
+		Specifies a webpage to redirect to if the email address submitted is of
+                an unrecognised form. Can be relative ('../page.html' or '/page.html')
+                or absolute ('http://domain.com/page.html').
+	</P>
+
+	<P>
+		<CODE><B>$thankyou_page</B></CODE><BR>
+		Specifies a webpage to redirect to on successful submission. Only used
+                if templates are not in use.
+	</P>
+	
+	
+	<H3>Some Defaults</H3>
+	
+	
+	<P>
+		<CODE><B>$email</B></CODE><BR>
+		This is the default email address. If not overridden in the form then the
+                form will appear to have come from this.
+	</P>
+
+	<P>
+		<CODE><B>$recipient</B></CODE><BR>
+		This is the default recipient. If not overridden in the form then the
+                results will be sent here. Multiple recipients can be specified by comma
+                seperating them.
+	</P>
+
+	<P>
+		<CODE><B>$subject</B></CODE><BR>
+		This is the default email subject. If not overridden in the form then the
+                email subject will be this.
+	</P>
+
+	<P>
+		<CODE><B>$addhostip</B></CODE><BR>
+		This is the default setting for whether the ip address and hostname get
+                appended to the email. This is only used if you're NOT using templates.
+                If you're using templates see the template section for the alternative
+                for retrieving this information.
+	</P>
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Over-riding</H2>
+
+	<P>
+		All of the above variables except for the ones under the security heading can be overridden
+		in your form by using inputs with the same name (but no dollar sign). These could be either
+		hidden inputs or text inputs. Some make more sense as hidden inputs, some as text inputs.
+		For example, the email variable makes sense as a text input so people can enter their email
+		address, whereas it would be rather daft to make the invalid_email variable a text input, and
+		so should be a hidden input (if included at all). Some possible input tags:
+	</P>
+
+	<P>
+		<CODE>
+		        &lt;INPUT TYPE="HIDDEN" NAME="invalid_email" VALUE="invalid_email.html"&gt;<BR>
+		        &lt;INPUT TYPE="TEXT" NAME="email"&gt;
+		</CODE>
+	</P>
+</DIV>
+
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Form Only stuff</H2>
+
+	<P>
+		These items apply only when used inside a form.
+	</P>
+
+	<P>
+		<CODE><B>_required</B></CODE><BR>
+		Add this tag to the end of the name of your input to make it a required
+                item.<BR>
+                Example: &lt;INPUT TYPE="TEXT" NAME="name_required"&gt;
+	</P>
+
+	<P>
+		<CODE><B>_file</B></CODE><BR>
+		If you're using file uploads and php3 then you need to add this to the end
+                of its' name. Php4 user do not.<BR>
+                Example: &lt;INPUT TYPE="FILE" NAME="fileupload_file"&gt;
+	</P>
+
+	<P>
+		<CODE><B>MAX_FILE_SIZE</B></CODE><BR>
+		Used in conjunction with file uploads to specify a maxmimum file size to
+                be uploaded. However, if used, and a file is uploaded above this value then
+                a rather ugly error will be generated. With usual php installations, another
+                max file size is also set in the php ini file. This is by default 2Mb.<BR>
+                Example: &lt;INPUT TYPE="HIDDEN" NAME="MAX_FILE_SIZE" VALUE="204800"&gt; (200k limit)
+	</P>
+
+	<P>
+		<CODE><B>configfile</B></CODE><BR>
+		Specifies a configuration file to use. The values in this file relate to the
+                configuration variables detailed above and will override any values specified
+                in (for example) hidden inputs which in turn will override the defaults in the
+                script (see override section). The value should be a filesystem path relative
+                to the script.<BR>
+                Example: &lt;INPUT TYPE="HIDDEN" NAME="config_file" VALUE="website_1.conf"&gt;
+	</P>
+
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Config File</H2>
+
+	<P>
+		As mentioned above this file is used to specify the various configuration variables, with the
+		added bonus of users not being able to see them if they view source on your form page, and
+		obviously, different forms can have different config files.
+		The format of this file is strict:
+	</P>
+	
+	<P>
+		<CODE>variable_name=value</CODE>
+	</P>
+	
+	<P>
+		Spaces are allowed for you to make it look pretty if you wish. You can specify as many or as
+		few variables here as you wish. Those that you do will override values set elsewhere, any
+		that you don't will retain values set elsewhere. Easy.
+	</P>
+
+</DIV>
+
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Notes</H2>
+	
+	<P>
+		If you use checkboxes with the same name (as is the norm) or if you have a multiple select
+		box (&lt;SELECT MULTIPLE NAME="..."&gt;) then these MUST have "[]" tagged onto the end of their
+		names, (without the quotemarks).<BR>
+		Example: &lt;SELECT NAME="selectbox[]" MULTIPLE&gt;...&lt;/SELECT&gt;
+	</P>
+	
+	<P>		
+		Checkboxes and multiple selects cannot be used with the "_required" option. Normal select
+		boxes (aka drop down lists) can. If you do use a select box with "_required" then it's
+		advisable to make the first option blank. Otherwise there is no point making it _required.	
+	</P>
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>Templates</H2>
+
+	<P>
+		Templates are great. Templates are wonderful. Templates will solve all your woes.
+		Not quite but would be nice yes? The thank you page template will enable your users to see
+		a custom thank you page including elements of what they typed in to the form. It's easy to
+		see in action if you have a look at the example form, and also by viewing the source of the
+		thankyou.html file (the template in this case).
+		In the template file you put all your lovely HTML gubbins that you want you users to see,
+		along with some "variables". These variables look like this:
+	</P>
+
+	<P>
+		<CODE>{name}</CODE>
+	</P>
+
+	<P>
+		Now, the two curly braces are just a way of distinguishing it. The text inside the curly braces
+		corresponds to the name of an input in the form. So if you had an input called name in your form,
+		then its value would replace the above in your thank you page.
+	</P>
+
+	<P>
+		As always, the best way to fully understand is to view the output (the example forms thank you page),
+		and then view the source (the thankyou.html file).
+	</P>
+
+	<P>
+		Same instructions apply for the email template.
+	</P>
+
+	<P>
+		As well as whatever you define in your form, you also have these extra variables available for use:
+	</P>
+
+	<PRE>
+		REMOTE_ADDR      This is the ip address of the user.
+		REMOTE_HOST      This is the hostname of the user.
+		HTTP_REFERER     This is the referring url (the address of the form).
+		recipient        This is the recipient(s) that the results were sent to.
+		num_attachments  The number of attachments that were sent.
+		subject          The subject of the email that was sent.
+		time             The time the email was sent.
+		date             The date the email was sent.
+	</PRE>
+
+	<P>
+		These should be used in the usual way (eg. {REMOTE_ADDR} ), and are case sensitive.
+	</P>
+
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>ToDo</H2>
+
+	<P>
+		Logging. Mysql, text file etc.
+	</P>
+</DIV>
+
+
+
+<DIV CLASS="nocenter padding background-light border">
+
+        <H2>License</H2>
+
+        <P>
+                Postcard-ware. If you use this utility then I'd appreciate a postcard from you. :)<BR>
+                Otherwise, it's free, be grateful, don't whinge, and don't sue me if it kills your system.
+        </P>
+
+        <P CLASS="center" ALIGN="CENTER">
+                <A HREF="http://validator.w3.org/check/referer">
+                        <IMG SRC="http://validator.w3.org/images/vh40" BORDER="0" ALT="Valid HTML 4.0!" HEIGHT="31" WIDTH="88">
+                </A>
+
+                <A HREF="http://jigsaw.w3.org/css-validator/">
+                        <IMG SRC="http://jigsaw.w3.org/css-validator/images/vcss.gif" BORDER="0" ALT="Valid CSS 1.0">
+                </A>
+        </P>
+
+
+</DIV>
+
+</BODY>
+</HTML>

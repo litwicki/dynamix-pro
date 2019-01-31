@@ -1,0 +1,14 @@
+	{name_required} has recently requested a price quote.
+	Submitted Information Follows:
+
+Email address.......: {email}
+
+	Name................: {name_required}
+	Textarea............: {textarea}
+	Hidden input........: {hidden_input}
+	Checkboxes..........: {checkboxes}
+	Optional stuff: 
+	Remote Address......: {REMOTE_ADDR}
+	Remote Host.........: {REMOTE_HOST}
+	Referring URL.......: {HTTP_REFERER}
+	Recipient...........: {recipient} No. of attachments..: {num_attachments}

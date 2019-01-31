@@ -1,0 +1,38 @@
+<HTML>
+<BODY>
+
+<H1 STYLE="font-family: Tahoma, Verdana, Arial, Sans-serif; font-size: 18pt; font-weight: normal; letter-spacing: 3pt">
+        Thanks {name_required}!
+</H1>
+
+<FONT FACE="Verdana" SIZE="-1">
+Thank you {name_required} for filling out the form. By the way, if you didn't change the email address at
+the bottom of the example form (it's a hidden input), you probably just sent me a mail.
+I'm flattered, but you might want to change it.<BR><BR>
+
+Some vaguely interesting template variables (an attempt to illustrate the template method):<BR><BR>
+</FONT>
+
+<PRE>
+Email address.......: {email}
+Name................: {name_required}
+Radio button........: {radio_buttons}
+Textarea............: {textarea}
+Select box..........: {select}
+Hidden input........: {hidden_input}
+Checkboxes..........: {checkboxes}
+
+Optional stuff:
+
+Remote Address......: {REMOTE_ADDR}
+Remote Host.........: {REMOTE_HOST}
+
+Referring URL.......: {HTTP_REFERER}
+
+Recipient...........: {recipient}
+No. of attachments..: {num_attachments}
+Emails' subject.....: {subject}
+</PRE>
+
+</BODY>
+</HTML>

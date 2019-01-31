@@ -1,0 +1,311 @@
+April 10, 2001
+8:30 P.M - 9:02 P.M
+=====================
+
+WarningTrack: Hi Jake
+Jake13735: hey
+WarningTrack: This is Chris Bowyer, co-owner of TheStands.com
+WarningTrack: I come to make a request of you.
+Jake13735: oh, hello
+Jake13735: ok, what's the request?
+WarningTrack: We are trying to add FastClick.com ad banners to our site - we were attempting to setup an ad rotator so that we could rotate the FastClick banners with your own. However, this is not possible. :-( I was wondering if you were open to modifying our advertising arranagement at all?
+Jake13735: why isn't that possible, first of all?
+WarningTrack: Because FastClick's banner code does not give us one specific URL we can enter into the rotator.
+WarningTrack: This doesn't surprise me, I suspected we might run into such a difficulty.
+Jake13735: what script are you trying to run...for your banner rotation?
+WarningTrack: phpAds - why?
+Jake13735: try adcycle
+Jake13735: works for DynamixPro
+WarningTrack: For both plain banner rotators as well as ad networks like FastClick? FastClick isn't the same as Burst!Media or other such providers, mind you
+WarningTrack: I've found Burst's code to be much simpler
+Jake13735: why use fastclicks then?
+WarningTrack: Because Burst has rejected us
+Jake13735: use websitesponsors, they pay out a lot better, better support, and they work with adcycle
+Jake13735: burst sucks...mind you :P
+WarningTrack: Yes, they do - WS Sponsors pays by the click last I checked, however.
+WarningTrack: FastClicks is a CPM provider, which is what we want, and need
+Jake13735: hmm
+WarningTrack: Anyway, I come with an offer
+Jake13735: I'm listening
+WarningTrack: Alright
+WarningTrack: It's quite simple: we keep that button on the navbar up as long as we use your design, we thank you specially with an announcement on all our forums, post a new story thanking you on our site as if it were content, and keep your 468x60 banner up on one of our branch sites without any rotating (only banner on there), if we can use the banner space on the other branch sites for the FastClick banners
+WarningTrack: I figure this will work out better for both of us, as we plan to go with a new layout shortly anyway.
+Jake13735: why are you going to a new layout?
+WarningTrack: Because we'd like something flat-out amazing. Your layout is good and solid - don't get me wrong. We're basically saving our money to hire someone who is *incredibly* expensive, but is a friend of mine, as fate would have it. He's from Scotland, and does web design for a living. Has for quite some time.
+WarningTrack: I hope that doesn't rub you the wrong way.
+Jake13735: well, it most certainly does
+WarningTrack: Why's that?
+Jake13735: what do you mean why
+WarningTrack: Why would you be upset by this?
+WarningTrack: I don't see why at all
+Jake13735: I don't see how it can't be offensive
+WarningTrack: You'll have to enlighten me here, Jake
+Jake13735: you just blatantly stated that our work isn't worth saving your money for
+WarningTrack: No, all I've implied is that you're not as good as this person I know, which is nothing to be ashamed of, seeing as how he is one of the best around.
+WarningTrack: I'm not insulted if someone tells me they know of a better PHP programmer
+WarningTrack: Because I know I'm not the best
+Jake13735: well, that's your choice I suppose
+Jake13735: if you think what we did for thestands network sites is our best, you're sadly mistaken
+WarningTrack: I make no such assumption
+Jake13735: ok
+WarningTrack: I only know that if I'm going to spend what will be quite a bit of money to someone of my age, I'd like to spend it on someone who I have worked with on large-scale project in the past in much detail
+WarningTrack: So your being offended by it baffles me
+Jake13735: no offense, but that isn't much to base spending money on
+Jake13735: granted, trusting your "friend" is a big deal, and I understand that
+WarningTrack: Moreso than I can say for you - I have to base it on something
+Jake13735: spending a lot of money doesn't mean you're going to get what the money spent deserves
+WarningTrack: I know Jack, and have worked with him. Perhaps you are better - might be, I cannot say. However I know this person fairly well and have worked with him, so I don't see why I would go any other way than the safest, which is with him
+Jake13735: the name is Jake
+WarningTrack: Jack is the friend's name
+Jake13735: oh, my mistake
+WarningTrack: Correct, but which way is safer for me: with someone who I've hardly worked with at all, or someone who is a friend of mine and I've worked with in much detail before?
+Jake13735: :P
+Jake13735: I'm not by any means saying you should decide against using your friend
+WarningTrack: Then what are you saying?
+Jake13735: I'm just saying it's quite rude to say what you have said thus far
+WarningTrack: What specifically has been rude, in your opinion?
+Jake13735: "No, all I've implied is that you're not as good as this person I know, which is nothing to be ashamed of, seeing as how he is one of the best around."
+WarningTrack: Actually yo usaid you were offended before I said that
+Jake13735: whether it be true or not is besides the point.  that's like telling your girlfriend she looks fat in a dress when she asks "how do I look?"
+Jake13735: I was offended, but not by rudeness
+Jake13735: I was offended by assumption...
+WarningTrack: Ugh - then by what?
+Jake13735: irrelevant
+Jake13735: I'm fine with you spending a ton of money, if you feel that is what determines quality.
+WarningTrack: Ok, let me put it this way: there is the POSSIBILITY that you're better, but it's highly unlikely. If that offends you, well I cannot help it. It should not be an offensive statement - this person is 29 years old and has been doing this professionaly for years
+Jake13735: if you trust your friend, then you should by all means hire him
+Jake13735: you shouldn't go around being God like that though, that's my point
+WarningTrack: If someone tells me they're going with someone with lots of experience whom they know personally and believe to be better, I would not be offended in the least. Not even close
+WarningTrack: Being God?
+WarningTrack: Is that some kind of joke?
+Jake13735: not at all
+Jake13735: if you think your friend is better, keep it to yourself.
+WarningTrack: So, because I think that this designer is better than you, I'm being God?
+Jake13735: it's rude to do otherwise
+WarningTrack: I was going to, but you asked me why we were changing layouts
+WarningTrack: I didn't WANT to talk about it
+WarningTrack: It would have been rude if I had refused to answer
+Jake13735: ok, whatever.  I don't want to argue over something so childish
+WarningTrack: Whatever you say jake, but you just told me I should have kept it to myself, I then pointed out that you ASKED me, and then you don't want to talk about it anymore.
+WarningTrack: Because of that, the entire point of this conversation has gone off track. Everytime I say something I'm met with either a question, or a statement telling me I'm rude, or God.
+Jake13735: have you kept this entire conversation saved?
+WarningTrack: I havn't closed it - why?
+Jake13735: then reread what I've stated 
+WarningTrack: I know what you've said.
+Jake13735: I'm agreeing with your choice
+WarningTrack: I tried to make an offer, you started asking questions, which I answered, even though they got tiresome
+Jake13735: not with your choice of statements
+WarningTrack: You're not understanding me
+WarningTrack: You're misunderstanding Jake - you got upset, told me I shouldn't have done something, and then I came back telling you you ASKED about it, so I told you. Therefore what you said was wrong
+Jake13735: you're extremely ignorant...
+WarningTrack: I wouldn't have mentioned it, except for the fact that I don't like being insulted for no reason
+WarningTrack: And why is that, Jake?
+Jake13735: did you not read my statement about the analogy to a girlfriend asking "how do I look?"
+WarningTrack: Yes, and it was a bad analogy
+WarningTrack: You're a professional, not my girlfriend. I should not have to humor you or message your ego
+WarningTrack: massage*
+Jake13735: message
+WarningTrack: Now, did you read my IM rebutting your point of keeping it to myself?
+Jake13735: i'm not asking you to message my ego, I'm asking you to act professional
+WarningTrack: Same of you - and as a professional, realize that it's highly likely that this friend of mine is a better designer.
+Jake13735: I've already agreed to that if you'd get off your podium and stop preeching
+Jake13735: you could realize that
+WarningTrack: This is not preaching - this is asking you to admit when you've said something wrong, which you simply will not do.
+Jake13735: what have I said incorrectly?
+WarningTrack: That I should have kept it to myself
+WarningTrack: When you ASKED me about it
+WarningTrack: And I supposed it would have been perfectly polite to not answer the question?
+Jake13735: your ignorance is starting to frustrate me
+WarningTrack: Are you going to respond, or insult me again?
+Jake13735: I asked for your reason for a new layout of the network sites
+WarningTrack: Yes, and I told you why
+Jake13735: claiming your friend to be superior to me was highly unnecessary.  that is all I am trying to say
+Jake13735: I can accept my inadequacy to your friend
+Jake13735: but I refuse to accept your rudeness
+WarningTrack: Rudeness?
+Jake13735: must I explain it again
+WarningTrack: Tell me, which of us has called the other ignorant several times?
+WarningTrack: Which has accused the other of playing God?
+WarningTrack: And now, which of us has done NONE of that?
+Jake13735: does that make you right, and me wrong?
+WarningTrack: You're as guilty as I, if not moreso
+Jake13735: guilty of what, may I ask
+WarningTrack: No, it makes you ruder than I in this conversation
+WarningTrack: Of this rudeness you seem so terribly offended by
+Jake13735: calling you ignorant is not an insult
+WarningTrack: Are you kidding me?
+Jake13735: ignorance is a lack of understanding or knowledge
+WarningTrack: Yes, it is
+WarningTrack: That's an insult
+WarningTrack: So let me guess: it's not an insult because it might be true?
+Jake13735: well, then claiming I lack the experience, or talent...or both, to your friend Jack is just as big an insult...am I wrong?
+WarningTrack: SEE! That's my point exactly, you did the exact same thing as I
+Jake13735: no, it can be seen as an insult, I suppose, but it wasn't intended to be as such
+WarningTrack: So don't go on about my rudeness when you have done all I have
+WarningTrack: Well neither was mine
+WarningTrack: So as you can see, I've done no worse than you
+Jake13735: if that makes you feel better, than I'll agree with you
+Jake13735: I've done wrong, in calling you ignorant.
+Jake13735: I'm sorry, here is a cookie
+WarningTrack: Very funny
+WarningTrack: And this after ranting on and on about how rude I am?
+WarningTrack: All of a sudden it's trivial?
+Jake13735: as I said earlier, you're frustrating me
+Jake13735: you keep backtracking and quite frankly you've just wasted twenty minutes of my time
+WarningTrack: Likewise - however, as you can plainly see, all your argument has been in vain, as you've said these rude things more often than I have
+Jake13735: how have I been rude, please explain
+WarningTrack: I just did explain it to you Jake
+Jake13735: *sigh*
+WarningTrack: And you admitted that you've done wrong in calling me ignorant
+WarningTrack: Sigh all you want, but you've got nothing rational on your side at this point
+Jake13735: is this a game?
+Jake13735: do you really want to win that badly?
+WarningTrack: No, not at all
+WarningTrack: Nope, not about winning
+Jake13735: my God you're insane!
+WarningTrack: Yeah Jake, I'm insane
+WarningTrack: It's about getting you to realize that after all this ranting and raving on your end, you did the same damn thing! Is that so hard to understand?
+Jake13735: all I said was saying your friend is superior to me, was unncessary, which is most certainly is, and was
+WarningTrack: Read my last IM - if you have a rational reply, go ahead and send it.
+Jake13735: and now you're off on a spree of how incorrect I am here, and incorrect there..
+WarningTrack: Nope, I'm simply repeating myself - you don't seem to get it
+WarningTrack: Could be worse, I could call you rude, God, ignoant, and insane
+Jake13735: quite the contrary, I've admitted my fault....you're unable to do so yourself
+WarningTrack: And what makes you say that? You hadn't asked me. You'd simply been insulting me more and more
+Jake13735: you are rude, you are ignorant, and this is insane
+Jake13735: this is beyond insane
+WarningTrack: And what am I ignorant to?
+Jake13735: this is ludicrous
+Jake13735: eeek, bad spelling
+WarningTrack: You're right, it is
+Jake13735: youre unable to realize how unncessary your comments were
+WarningTrack: It's totally insane for me to IM you with an offer, and then be hit with tons of questions about every little thing
+Jake13735: I'm sick of arguing
+WarningTrack: So am I, but I'll defend myself as long as I have to
+Jake13735: naturally, when you bring up the fact you're replacing my work, I ask questions as to why
+Jake13735: defend yourself?  lol that's exactly my point
+Jake13735: this isn't a game Chris, nobody is fighting
+WarningTrack: Yes, and then you should act professional when you get an honest answer.
+WarningTrack: You know what I mean - you say something that's wrong, I reply. Simple
+Jake13735: it wasn't a professional answer, why can't you realize that?
+Jake13735: now my statements are wrong?
+Jake13735: good luck in the business world
+WarningTrack: The one about me being ignorant is
+
+-----------------------
+WarningTrack: I've emailed you, and unless you're the same through email as you are on IMs, you'll read it
+Jake13735: lol
+WarningTrack: Yes, laugh. Laugh some more if you like
+Jake13735: lol
+WarningTrack: There, doesn't that feel better?
+WarningTrack: Perhaps you feel good enough to give me another lecture on business?
+Jake13735: no, but reading this email does
+WarningTrack: I'd enjoy that
+WarningTrack: Well, why don't you correct me? After all, I could use all the advice I can get from someone like you
+Jake13735: have you ever been in a fist fight in your life?
+Jake13735: I'm curious
+WarningTrack: Yup
+WarningTrack: Fifth grade was the one I remember most
+Jake13735: how much did you get beat up by?
+Jake13735: on a scale of 1 to 10
+WarningTrack: I didn't
+Jake13735: how did it start?
+Jake13735: did you say the other guy wasn't as good as your friend at soccer?
+WarningTrack: Basically, the kid had been angry at me for some reason for days
+WarningTrack: I never knew why
+WarningTrack: Then one day he grabbed a paper of mine, messed it all up and threw it. I got it back, and eventually we fought for a short while. We weren't that old, of course
+WarningTrack: Is this going somewhere?
+Jake13735: nope
+WarningTrack: I didn't think sop
+WarningTrack: so*
+WarningTrack: Somehow I thought you'd ask me something like that.
+Jake13735: I had to after your little email
+WarningTrack: You likely think I'm a sniveling worm who loves to debate, but not fight. If that's what you want to think, sure, go ahead
+Jake13735: I did think you like to debate
+Jake13735: but didnt think of you as a worm
+WarningTrack: Well, you think of me as someone who is physically weak
+WarningTrack: Who tries to make up for it with words
+Jake13735: more of a snake, who bites and then coils up quickly after
+WarningTrack: Who could not stand my ground in an actual fist fight
+Jake13735: no, I didn't
+WarningTrack: Coiling? Interesting - explain mroe
+WarningTrack: more*
+Jake13735: sheesh you're judging me now too
+Jake13735: man oh man
+WarningTrack: Nope, I'm trying to figure out what you're thinking
+Jake13735: how do you have a 29 year old friend by the way?
+WarningTrack: What do you mean how?
+Jake13735: from scottland of all places
+WarningTrack: You don't have any friends who are adults?
+WarningTrack: Scotland - yes. Met him online through a work project.
+WarningTrack: Was blown away by his skill
+Jake13735: mind if I ask to see some of his work?
+WarningTrack: www.reblock.net - although that's Flash, so it's not as accurate for, say, a content-based site
+WarningTrack: The layout he built for the work project is actually still undergoing some changes - the site launches in a short while
+WarningTrack: I don't know what company he works for. I'll have to ask
+WarningTrack: Any other questions? I'm here to please
+Jake13735: I'm rather ashamed you're judging DynamixPro based on a project we did for free...
+Jake13735: ...now that I think about it
+WarningTrack: Well, I'm open to any other examples
+Jake13735: I'm not here to please
+WarningTrack: I just didn't see anything at your site that looked better than what I've seen Jack create, is all
+WarningTrack: And it seemed pretty obvious to me that your best work would be there
+WarningTrack: Was I mistaken?
+Jake13735: just mislead
+WarningTrack: So, your best work is or isn't on this page ---> http://www.dynamixpro.com/clients/ ?
+Jake13735: you don't see the big picture of anything
+Jake13735: ..that is there
+WarningTrack: How do you mean?
+Jake13735: all we did on those, was develop something they wanted...
+Jake13735: didn't go our own creative way or anything
+Jake13735: so as I said earlier, judging DynamixPro, based on what you know about your friend Jackie, is quite irrelevant
+WarningTrack: Well, from what I understand it is customary to put your best work on such a page - do you have any examples?
+WarningTrack: No, just not 100% accurate
+WarningTrack: Like I said before, you may be better, but I find that to be very unlikely
+Jake13735: you think I have examples growing on the example tree?
+WarningTrack: Nope, just figured you'd have at least one to show me
+Jake13735: how many do you want me to come up with in four months?
+WarningTrack: Well, I was thinking you'd have one by now.
+WarningTrack: If you don't have any, then don't be surprised when people don't realize how great you are.
+Jake13735: wasn't it you who was just viewing the client list?
+WarningTrack: Yup, I was.
+Jake13735: there are half a dozen examples there...
+WarningTrack: You said those arn't ones where you got to go your own creative way
+Jake13735: HELLO
+Jake13735: anybody home?
+WarningTrack: Very funny - now tell me what you're talking about
+Jake13735: in four months, we've accumulated the clients you see on that list
+WarningTrack: Do you have an example of a site that allowed you to go your own "creative way", yes or no?
+Jake13735: as of this point, they have all had their own customary design in mind, and we just did it to their liking...nothing "excellent" by your standards obviously
+WarningTrack: Ok, so you havn't gotten to make it look as cool as you'd like - so I'm judging you on what you've done. It's all I can judge you on right now.
+WarningTrack: Yes, nothing excellent - I'm not excellent at what I do either. I need a lot more practice in it
+WarningTrack: How old are you?
+Jake13735: then what the hell was the problem, about 25 minutes ago I agreed with what you just said, five seconds ago
+Jake13735: I'm 16
+WarningTrack: You said that you were ashamed that I judged you on the sites you did for free - just pointing out that I judged you by all those sites I saw. All the ones you've done so far.
+WarningTrack: Which is all I *can* judge you by, really
+Jake13735: are you done?
+WarningTrack: With replying to what you said? Yes
+WarningTrack: You didn't seem to understand what I mean 'til just now
+Jake13735: business tip*
+Jake13735: write a book on excellence, you seem to have it to a pinpoint
+WarningTrack: Very funny - I don't claim to be excellent, or perfect, or even close
+WarningTrack: But if you say something, and I know it to be wrong, I reply and point it out. Wow, I must think I'm God, huh?
+Jake13735: then stop degrading me to make yourself feel better
+WarningTrack: I'm not trying to degrade you, I'm pointing out inaccuraces - there a problem with that?
+Jake13735: yes
+WarningTrack: Look, you've got the wrong idea. This is the second time man - you say something, I argue with it, and then you tell me that I'n harping on you about it.
+Jake13735: which is what you're so freakishly unable to realize
+WarningTrack: If you don't want me pointing out these things, then don't say them.
+Jake13735: how on earth does your mother put up with you?
+Jake13735: do you correct everything she does?
+Jake13735: do you tell her her cooking is done poorly
+WarningTrack: Like a normal human being Jake: if she says something wrong
+WarningTrack: , and I argue, and I'm right, she admits it
+WarningTrack: Normal human beings are not offended when someone points out their mistakes
+Jake13735: if I made a mistake, I wouldn't be offended
+WarningTrack: You did make a mistake
+Jake13735: when you correct it
+Jake13735: I made a mistake by talking to you
+
+*BLOCKED*

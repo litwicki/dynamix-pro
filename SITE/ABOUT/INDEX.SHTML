@@ -1,0 +1,105 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Revolutionize Your Future</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <div>
+                          <font face="Verdana, arial" size="2">DynamixPro</font></div>
+                        <div>
+                          <font face="Verdana, arial" size="2">PO Box 291</font></div>
+                        <div>
+                          <font face="Verdana, arial" size="2">Naperville, IL 
+                          60566-0291<br>
+                          -------------------------</font></div>
+                        <p class="MsoNormal"><font size="1" face="verdana">
+                        Founding Date: December 7, 1999</font></p>
+                        <p class="MsoNormal"><font size="1" face="verdana">Site 
+                        Version: 3.00</font></p>
+                        <p class="MsoNormal"><font size="1" face="verdana">Site 
+                        Release: December 1, 2000</font></p>
+                        <p class="MsoNormal"><font size="1" face="verdana">
+                        DynamixPro is located in the state of Illinois, United 
+                        States of America.</font></p>
+                        <p class="MsoNormal"><font size="1" face="verdana">Our 
+                        current business model is based around a partnership 
+                        model.<span style="mso-spacerun: yes">&nbsp;</span><o:p>
+                        </o:p>
+                        </font></p>
+                        <hr noshade size="1" color="#C0C0C0">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                          <tr>
+                            <td width="100%">
+                              <p align="right"><span style="font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><font face="verdana" size="2"><b><a href="../services/order.shtml">
+                              Get a FREE Price Quote Today!</a></b></font></span></td>
+                          </tr>
+                        </table>
+                        <p align="right">&nbsp;</p>
+                        <p>&nbsp;
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

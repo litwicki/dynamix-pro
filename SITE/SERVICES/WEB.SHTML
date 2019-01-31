@@ -1,0 +1,139 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Services</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                        <p><b><font face="verdana" size="5">Website Design</font></b></p>
+                        <p><font face="verdana" size="2">Take a look at what we
+                        can offer to you.&nbsp; If you have any comments or
+                        questions do not hesitate to contact our support staff
+                        for the answers you need.&nbsp;&nbsp;</font></p>
+                        <hr noshade size="1" color="#000000">
+                        <p><font face="verdana" size="2"><b>Web Creation</b></font></p>
+                        <p><font face="verdana" size="2">An entire website
+                        created for you by our DynamixPro designers. We work
+                        with you to design an entire site, including graphics,
+                        navigation system, CGI-Scripts, and site layout. We
+                        design the site how <i>you</i> want it. The site will be
+                        designed to your specifications, and will work how you
+                        want it to. If you have an idea for a great website, but
+                        don't know how, or don't have the time to design it, let
+                        DynamixPro do it! We work with you every step of the way
+                        to make sure he site is exactly how you want it.</font></p>
+                        <p><font face="verdana" size="2"><b>Web Clean-Up/Repair</b></font><font face="Times New Roman"></p>
+                        </font>
+                        <p><font face="verdana" size="2">A DynamixPro design
+                        specialist will evaluate your entire site, providing
+                        suggestions about the entire site. Everything from
+                        content layout, graphics optimization, interface layout,
+                        individual page design, site layout and navigation, as
+                        well as additional features that can be added to improve
+                        the site. If you request this service for your website,
+                        and then decide to have us perform any of the changes we
+                        recommend, you will receive a discount for the entire
+                        package! Our sales and design specialists are
+                        low-pressure and will never force you to make any
+                        unwanted changes to your site or pressure you to use us
+                        as a your design company after an evaluation.</font></p>
+                        <p><font face="verdana" size="2"><b>Interface Design</b></font></p>
+                        <p><font face="verdana" size="2">DynamixPro designs a
+                        site navigation interface for your web site. If your
+                        customers or site users have been complaining of a cumbersome,
+                        outdated, or hard to navigate site, we will design an
+                        effective, powerful, and easy to use interface for your
+                        site. Our interfaces are completely customized to your
+                        specifications and your site's specific requirements, so
+                        you know your site will get the personal attention it
+                        deserves.</font></p>
+                        <p><font face="verdana" size="2"><b>CGI/Perl/ASP/PHP
+                        Scripting</b></font></p>
+                        <p><font face="verdana" size="2">CGI scripting adds a
+                        whole new world of functionality to your web site.
+                        Instead of a simple, informational site, CGI adds
+                        interactivity to your site. CGI allows you to do
+                        everything from search your website, to getting
+                        information from your customers for purchases or other
+                        uses. The web is no longer a point and click world -
+                        it's an interactive, evolving universe. Isn't it time
+                        your site evolved to adapt to the new technologies
+                        available? Working with a DynamixPro Programmer, you
+                        will describe what you would like built, and we design
+                        it for you.</font></p>
+                        <p><font face="verdana" size="2"><b>Flash/LiveMotion
+                        Animation</b></font></p>
+                        <p><font face="verdana" size="2">Using Macromedia Flash,
+                        DynamixPro will create the ultimate in interactive,
+                        multimedia enhancements specifically for your site. It's
+                        interactive, it's graphical, and it's animated. We
+                        design a Flash creation for your site that will show off
+                        just how techno-savvy you are. Show off your site - wow
+                        people like you've never been able to before! DynamixPro
+                        is your complete Flash design solution team.</font>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

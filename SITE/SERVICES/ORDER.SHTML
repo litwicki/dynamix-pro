@@ -1,0 +1,183 @@
+<HTML>
+<HEAD>
+<TITLE>DynamixPro - Services</TITLE>
+<LINK rel="STYLESHEET" type="text/css" href="../dynamixpro.css">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="750" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td width="100%" valign="top">
+    <!--#include virtual="../tnav.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" bgcolor="#003366">
+            <!--#include virtual="../header.html" -->
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#000000" valign="top" height="10">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <table border="0" width="750" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="40" valign="top" background="../images/main/dynamixprofade.jpg"><br>
+          </td>
+          <td width="550" valign="top">
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="100%" valign="top">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="10">
+                    <tr>
+                      <td width="100%" valign="top" height="800">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="100%"><!--#include virtual="../quicknav.html" --></td>
+                          </tr>
+                        </table>
+                        <hr noshade size="1" color="#000000">
+                                                                   
+                               
+                                      <p>
+                                      <img border="0" src="../images/main/pricequote.gif" width="513" height="40"></p>
+                                                                   
+                               
+                                      <p>
+                                      <font face="Verdana, arial" size="1">It is 
+                                      assumed that the client has a general idea 
+                                      of what their site will require, and what 
+                                      they want from the site.&nbsp; If 
+                                      assistance is required in determining the 
+                                      best for both the site, and/or company, 
+                                      please contact
+                                      <a href="mailto:service@dynamixpro.com?subject=Help With Site Requirements">
+                                      service@dynamixpro.com</a> and we will be 
+                                      more than happy to assist you.</font></p>
+                                                                   
+                               <hr noshade color="#CCCCCC" size="3">
+                                                                   
+                               <form method="post" action="http://www.dynamixpro.com/services/order/form.php">
+                                      <table border="0" width="100%" cellspacing="3" cellpadding="5">
+                                        <tr>
+                                          <td valign="top">
+                                          <font face="Verdana, arial" size="2">Name</font></td>
+                                          <td valign="top">
+                                          <font face="Verdana, arial">
+                                          <input type="text" name="name" size="35"></font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top">
+                                          <font face="Verdana, arial" size="2">E-Mail</font></td>
+                                          <td valign="top">
+                                          <font face="Verdana, arial">
+                                          <input type="text" name="email" size="25"></font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top">
+                                          <font face="Verdana, arial" size="2">Company
+                                            Name</font></td>
+                                          <td valign="top">
+                                          <font face="Verdana, arial">
+                                          <input type="text" name="company" size="30"></font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top">
+                                          <font face="Verdana, arial" size="2">Phone</font></td>
+                                          <td valign="top">
+                                          <font face="Verdana, arial">
+                                          <input type="text" name="area_code" size="3"><font size="2"> 
+                                          - </font>
+                                          <input type="text" name="phone" size="7"></font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top" colspan="2">
+                                            <hr noshade color="#CCCCCC" size="3">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top" colspan="2">
+                                            <font face="Verdana, arial" size="2">Select the items you wish to have 
+                                            incorporated into your site.</font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top">
+                                            &nbsp;</td>
+                                          <td valign="top">
+                                            <font size="1" face="Verdana, arial">
+                                            <input type="checkbox" name="checkboxes[flash]" value="ON"> Animation (Macromedia 
+                                            Flash)<br>
+                                            <input type="checkbox" name="checkboxes[3D]" value="ON"> 
+                                            3D Animation/Rendering<br>
+                                            <input type="checkbox" name="checkboxes[streaming_video]" value="ON"> 
+                                            Streaming Audio/Video<br>
+                                            <input type="checkbox" name="checkboxes[video]" value="ON"> 
+                                            Video<br>
+                                            <input type="checkbox" name="checkboxes[database]" value="ON"> 
+                                            Database Development<br>
+                                            <input type="checkbox" name="checkboxes[forums_msg]" value="ON"> 
+                                            Forums/Message Boards<br>
+                                            </font>
+                                            <input type="checkbox" name="checkboxes[shopcart]" value="ON"><font size="1" face="Verdana, arial"> 
+                                            Shopping Cart<br>
+                                            <input type="checkbox" name="checkboxes[misc_programming]" value="ON"> 
+                                            MISC Programming</font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top" colspan="2">
+                                            <hr noshade color="#CCCCCC" size="3">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top">
+                                            <font face="Verdana, arial" size="2">
+                                            Description of Services</font></td>
+                                          <td valign="top">
+                                            <textarea rows="8" name="description" cols="40">please be as specific as possible with any comments, questions, or ideas you have.</textarea></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top" colspan="2">
+                                            <hr noshade color="#C0C0C0" size="1">
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="top" colspan="2">
+                                            <input type="submit" value="Submit Price Quote" name="Submit">
+                                            <input type="reset" value="Reset Form" name="clear"></td>
+                                        </tr>
+                                      </table>
+                                    </FORM>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="100%" valign="top">
+                        <p align="left"><!--#include virtual="../legal/copyright.html" -->
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width="160" valign="top" bgcolor="#003366">
+            <div align="center">
+              <center>
+              <table border="0" width="150" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%"></td>
+                </tr>
+              </table>
+              </center>
+            </div>
+      <!--#include virtual="../rnav.html" -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>
